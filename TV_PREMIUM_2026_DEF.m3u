@@ -1,0 +1,568 @@
+#EXTM3U
+# TV PREMIUM 2026 | Fire TV | TiviMate | 188 canales
+# Fuente de emisiones públicas: disponibilidad variable; los streams no se han probado individualmente.
+# Lista estática: los cambios del servidor de cada canal no se actualizan automáticamente.
+
+#EXTINF:-1 tvg-id="13C.cl" group-title="01 · Documentales y cultura" tvg-language="es" tvg-logo="https://i.imgur.com/49QkKWv.png",13 Cultura | Chile
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-id="33.es" group-title="01 · Documentales y cultura" tvg-language="ca",33 | Cultura y documentales (CAT)
+https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ARDalpha.de" group-title="01 · Documentales y cultura" tvg-language="de",ARD-alpha | Ciencia y cultura (DE)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="AutenticHistory.de" group-title="01 · Documentales y cultura" tvg-language="de",Autentic History | Historia
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnceMexico.mx" group-title="01 · Documentales y cultura" tvg-language="es" tvg-logo="https://i.imgur.com/K0351vF.png",Canal Once México | Cultura
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="01 · Documentales y cultura" tvg-language="en" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary (EN)
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="en" tvg-logo="https://i.imgur.com/M6FFkc3.png",Classic Arts Showcase | Arte (EN)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="en",Create | Estilo de vida y cultura (EN)
+https://create.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" group-title="01 · Documentales y cultura" tvg-language="en",Crime 360 | Crimen real (EN)
+https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us" group-title="01 · Documentales y cultura" tvg-language="en",Dateline 24/7 | Crimen real (EN)
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="en",Docurama | Documentales (EN)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="it",Humanity Documentari | Historias humanas (IT)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" group-title="01 · Documentales y cultura" tvg-language="es" tvg-logo="https://i.imgur.com/DmuTwDw.png",La 2 | España
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="en",Moconomy | Economía documental (EN)
+https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="ar",National Geographic Abu Dhabi | Documentales (AR)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="01 · Documentales y cultura" tvg-language="en",NHK World Japan | Cultura (EN)
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="en",Peer TV | Naturaleza y viajes (EN)
+https://iptv.peer.biz/live/peertv-en.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="it",Rakuten Documentari | Italia
+https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealStories.uk" group-title="01 · Documentales y cultura" tvg-language="en",Real Stories | Documentales (EN)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="01 · Documentales y cultura" tvg-language="fr",RMC Découverte | Francia
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="it",The Boat Show | Documental náutico (IT)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
+
+#EXTINF:-1 tvg-id="TheGuardian.uk" group-title="01 · Documentales y cultura" tvg-language="en",The Guardian | Reportajes (EN)
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="es",Vale TV | Cultura Venezuela
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+
+#EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",World Channel | Documentales PBS (EN)
+https://world.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.cl" group-title="02 · Noticias en español" tvg-language="es",24 Horas TVN | Chile
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
+#EXTINF:-1 tvg-id="324.es" group-title="02 · Noticias en español" tvg-language="ca",3CatInfo | Catalunya
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 group-title="02 · Noticias en español" tvg-language="es",América TeVe | Miami
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-id="biobiochile.cl" group-title="02 · Noticias en español" tvg-language="es",Bío Bío TV | Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="02 · Noticias en español" tvg-language="es",CGTN Español | Internacional
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-id="CHVNoticias.cl" group-title="02 · Noticias en español" tvg-language="es",Chilevisión Noticias | Chile
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" group-title="02 · Noticias en español" tvg-language="es" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW Español | Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="ElPaisTV.es" group-title="02 · Noticias en español" tvg-language="es",El País | Actualidad
+https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="02 · Noticias en español" tvg-language="es",Euronews Español | Europa
+https://euronews-live-spa-es.fast.rakuten.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" group-title="02 · Noticias en español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png",France 24 Español | Francia
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="NegociosTV.es" group-title="02 · Noticias en español" tvg-language="es",Negocios TV | Economía
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="24h.es" group-title="02 · Noticias en español" tvg-language="es",RTVE 24 Horas | España
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="T13.cl" group-title="02 · Noticias en español" tvg-language="es",T13 en vivo | Chile
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.au" group-title="03 · Noticias internacionales" tvg-language="en",ABC News Australia | Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="03 · Noticias internacionales" tvg-language="en",ABC News Live | USA
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
+
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr" group-title="03 · Noticias internacionales" tvg-language="fr",Africanews Français | África
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="03 · Noticias internacionales" tvg-language="en",Al Jazeera English | Qatar
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",BBC News | Reino Unido
+https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" group-title="03 · Noticias internacionales" tvg-language="en",Bloomberg Europe | Economía
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Bloomberg TV+ | EE. UU.
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",CBS News | EE. UU.
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="03 · Noticias internacionales" tvg-language="en",CGTN English | China
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Cheddar | Economía (EN)
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNAInternational.sg" group-title="03 · Noticias internacionales" tvg-language="en",CNA International | Singapore
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",CNBC Europe | Economía
+https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Court TV | Justicia (EN)
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" group-title="03 · Noticias internacionales" tvg-language="en",DW English | Germany
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" group-title="03 · Noticias internacionales" tvg-language="en",Euronews English | Europe
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24English.fr" group-title="03 · Noticias internacionales" tvg-language="en",France 24 English | France
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",i24NEWS | Internacional
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",India Today | Internacional
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",LiveNOW from FOX | EE. UU.
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="id",Metro Globe Network | Indonesia
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" group-title="03 · Noticias internacionales" tvg-language="en",NBC News NOW | USA
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Reuters | Internacional
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Scripps News | EE. UU.
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Sky News Australia NOW
+https://i.mjh.nz/sky-news-now.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Ticker News | Australia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="03 · Noticias internacionales" tvg-language="en",TRT World | International
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",USA Today | EE. UU.
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+#EXTINF:-1 group-title="03 · Noticias internacionales" tvg-language="en",Yahoo Finance | Economía
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13P.cl" group-title="04 · Cine y películas" tvg-language="es",13 Prime | Cine y series Chile
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="en",Action Hollywood | Acción (EN)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Bizzarro Movies | Cine (IT)
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BomCine.es" group-title="04 · Cine y películas" tvg-language="es",BOM Cine | Cine en español
+https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",CGtv | Cine italiano
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Cinema Segreto | Cine (IT)
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" group-title="04 · Cine y películas" tvg-language="en",FilmRise Movies | Cine (EN)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseSciFi.us" group-title="04 · Cine y películas" tvg-language="en",FilmRise Sci-Fi | Ciencia ficción (EN)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Full Moon | Cine (IT)
+https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Azione | Acción (IT)
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Classico | Cine clásico (IT)
+https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Commedia | Comedia (IT)
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Drammatico | Drama (IT)
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Family | Cine familiar (IT)
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Film Top | Cine (IT)
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Romance | Románticas (IT)
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Rakuten Thriller | Suspense (IT)
+https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Risate all italiana | Comedia (IT)
+https://minerva-risateallitaliana-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Shorts | Cortometrajes (IT)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="it",Sofy.tv | Cine independiente
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Squirrel.es" group-title="04 · Cine y películas" tvg-language="es",Squirrel | Cine en español
+https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
+
+#EXTINF:-1 group-title="04 · Cine y películas" tvg-language="en",The Film Detective | Clásicos (EN)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+
+#EXTINF:-1 tvg-id="13E.cl" group-title="05 · Series y entretenimiento" tvg-language="es",13 Entretención | Chile
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 tvg-id="13Realities.cl" group-title="05 · Series y entretenimiento" tvg-language="es",13 Realities | Chile
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1 tvg-id="13T.cl" group-title="05 · Series y entretenimiento" tvg-language="es",13 Teleseries | Series Chile
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="it",BBC Doctor Who | Series (IT)
+https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="it",BBC Drama | Series (IT)
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="en",Drybar Comedy | Humor (EN)
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="it",FailArmy | Vídeos virales
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="en",Heartland | Entretenimiento (EN)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.cl" group-title="05 · Series y entretenimiento" tvg-language="es",Mega | Series Chile
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="it",People Are Awesome | Proezas
+https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="it",Rakuten Stories | Series e historias (IT)
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="en",Retro TV | Series clásicas (EN)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="en",Rev’n | Motor y entretenimiento (EN)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="it",Televisa Telenovelas | Series (ES/IT)
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="05 · Series y entretenimiento" tvg-language="it",The Pet Collective | Mascotas
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVN3.cl" group-title="05 · Series y entretenimiento" tvg-language="es",TVN 3 | Series y archivo Chile
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="es",AS3 Sport TV | Venezuela
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="ar",Dubai Racing 1 | Hípica (AR)
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="ar",Dubai Racing 2 | Hípica (AR)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="ar",Dubai Sports 1 | Deportes (AR)
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="ar",Dubai Sports 2 | Deportes (AR)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="ar",Dubai Sports 3 | Deportes (AR)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",EDGESport | Deportes de acción
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" group-title="06 · Deportes" tvg-language="ca",Esport3 | Catalunya
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",FIFA+ Women | Fútbol femenino
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.us" group-title="06 · Deportes" tvg-language="en",FIFA+ | Fútbol internacional (EN)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",FUEL TV | Deportes de acción
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="it",Italian Fishing TV | Pesca (IT)
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr" group-title="06 · Deportes" tvg-language="fr",L'Équipe | Francia
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="it",Motor1TV | Motor Italia
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",Motorsport.tv | Automovilismo
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" group-title="06 · Deportes" tvg-language="en",Red Bull TV | Deportes extremos
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="ar",Sharjah Sports | Deportes (AR)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="it",Sport2U | Deportes Italia
+https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="it",Sportitalia LIVE24 | Italia
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="it",SportOutdoor.tv | Outdoor (IT)
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",SportsGrid | Noticias deportes
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",Stadium | Deportes (EN)
+https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
+
+#EXTINF:-1 tvg-id="tdp.es" group-title="06 · Deportes" tvg-language="es",Teledeporte | RTVE
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",Trace Sport Stars | Deportistas
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="id",TVRI Sport | Indonesia
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 group-title="06 · Deportes" tvg-language="en",World of Freesports | Outdoor
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",3Cat Joc de Cartes | Gastronomía
+https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
+
+#EXTINF:-1 tvg-id="AragonTV.es" group-title="07 · España y Cataluña" tvg-language="es",Aragón TV | Aragón
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",Bon Dia TV | Catalunya
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",Canal Extremadura
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",Canal Sur | Andalucía
+https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="eu",ETB1 | País Vasco
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",ETB2 | País Vasco
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",La 1 Catalunya | RTVE
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" group-title="07 · España y Cataluña" tvg-language="es",La 1 | RTVE
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",La 2 Catalunya | RTVE
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",La 7 | Región de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",La 8 Mediterráneo | Valencia
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",La Otra | Madrid
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",RNE para todos | Vídeo
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.es" group-title="07 · España y Cataluña" tvg-language="es",Telemadrid | Madrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="TVCanaria.es" group-title="07 · España y Cataluña" tvg-language="es",Televisión Canaria
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV3.es" group-title="07 · España y Cataluña" tvg-language="ca",TV3 | Catalunya
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",TV3CAT | Internacional
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" group-title="07 · España y Cataluña" tvg-language="es",TVE Internacional | Europa
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+
+#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",À Punt | Comunidad Valenciana
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.cl" group-title="08 · Chile" tvg-language="es",Canal 13 | Chile
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+
+#EXTINF:-1 group-title="08 · Chile" tvg-language="es",Chilevisión Deportes | Chile
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="08 · Chile" tvg-language="es",Chilevisión | Chile
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="08 · Chile" tvg-language="es",Deportes 13 | Chile
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="08 · Chile" tvg-language="es",El Pingüino TV | Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="08 · Chile" tvg-language="es",NTV | Chile infantil
+https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
+
+#EXTINF:-1 group-title="08 · Chile" tvg-language="es",SoloTV | Chile
+https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
+
+#EXTINF:-1 group-title="08 · Chile" tvg-language="es",TV Chile | Chile internacional
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 tvg-id="TVPlus.cl" group-title="08 · Chile" tvg-language="es",TV+ | Chile
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UChileTV.cl" group-title="08 · Chile" tvg-language="es",UChile TV | Chile
+https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UCVTV.cl" group-title="08 · Chile" tvg-language="es",UCV TV | Chile
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13Kids.cl" group-title="09 · Infantil y familiar" tvg-language="es",13 Kids | Chile
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+#EXTINF:-1 tvg-id="ClanTVE.es" group-title="09 · Infantil y familiar" tvg-language="es",Clan | RTVE
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
+#EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",duckTV | Bebés (IT)
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="he",Kan Kids | Educación infantil
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",MONDO TV KIDS | Infantil (IT)
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us" group-title="09 · Infantil y familiar" tvg-language="en",PBS Kids | Estados Unidos
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",Planeta Junior | Infantil (IT)
+https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",SuperToons TV | Animación (IT)
+https://kedoo-supertoonstv-4-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SX3.es" group-title="09 · Infantil y familiar" tvg-language="ca",SX3 | Catalunya
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",Teletubbies | Infantil (IT)
+https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",Yamato Animation | Anime (IT)
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="ca",10 | 3Cat | Cámaras del tiempo
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | AccuWeather NOW | Meteorología
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="ar",10 | Al Jazeera Documentary | Árabe
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="pt",10 | Canal Saúde | Salud (PT)
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | Cloudflare TV | Tecnología (EN)
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | Clubbing TV | Electrónica (EN)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | Fox Weather | Meteorología
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | Now 70s | Música retro (EN)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | Now 80s | Música retro (EN)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | NOW Rock | Música (EN)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="it",10 | Radio Italia Trend | Música (IT)
+https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="fr",10 | Savoir Média | Ciencia (FR)
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | Sky News Weather | Meteorología (EN)
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="es",10 | Trace Latina | Música latina
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | Trace Urban | Música urbana
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="it",10 | Vevo Pop | Música (IT)
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="10 · Ciencia,música y extras" tvg-language="en",10 | WeatherNation | Meteorología (EN)
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
