@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+# EPG IDs de canales españoles ajustados a TDTChannels (LaQuay/TDTChannels TELEVISION.md)
+# La EPG no cubre necesariamente los 188 canales internacionales; actualizar fuentes en el reproductor.
 # TV PREMIUM 2026 | Fire TV | TiviMate | 188 canales
 # Fuente de emisiones públicas: disponibilidad variable; los streams no se han probado individualmente.
 # Lista estática: los cambios del servidor de cada canal no se actualizan automáticamente.
@@ -6,7 +8,7 @@
 #EXTINF:-1 tvg-id="13C.cl" group-title="01 · Documentales y cultura" tvg-language="es" tvg-logo="https://i.imgur.com/49QkKWv.png",13 Cultura | Chile
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-id="33.es" group-title="01 · Documentales y cultura" tvg-language="ca",33 | Cultura y documentales (CAT)
+#EXTINF:-1 tvg-id="C33.TV" group-title="01 · Documentales y cultura" tvg-language="ca",33 | Cultura y documentales (CAT)
 https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ARDalpha.de" group-title="01 · Documentales y cultura" tvg-language="de",ARD-alpha | Ciencia y cultura (DE)
@@ -39,7 +41,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 #EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="it",Humanity Documentari | Historias humanas (IT)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La2.es" group-title="01 · Documentales y cultura" tvg-language="es" tvg-logo="https://i.imgur.com/DmuTwDw.png",La 2 | España
+#EXTINF:-1 tvg-id="La2.TV" group-title="01 · Documentales y cultura" tvg-language="es" tvg-logo="https://i.imgur.com/DmuTwDw.png",La 2 | España
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 group-title="01 · Documentales y cultura" tvg-language="en",Moconomy | Economía documental (EN)
@@ -78,7 +80,7 @@ https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" group-title="02 · Noticias en español" tvg-language="es",24 Horas TVN | Chile
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 
-#EXTINF:-1 tvg-id="324.es" group-title="02 · Noticias en español" tvg-language="ca",3CatInfo | Catalunya
+#EXTINF:-1 tvg-id="324.TV" group-title="02 · Noticias en español" tvg-language="ca",3CatInfo | Catalunya
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 
 #EXTINF:-1 group-title="02 · Noticias en español" tvg-language="es",América TeVe | Miami
@@ -96,7 +98,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-id="DWEspanol.de" group-title="02 · Noticias en español" tvg-language="es" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW Español | Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
-#EXTINF:-1 tvg-id="ElPaisTV.es" group-title="02 · Noticias en español" tvg-language="es",El País | Actualidad
+#EXTINF:-1 tvg-id="ElPais.TV" group-title="02 · Noticias en español" tvg-language="es",El País | Actualidad
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="02 · Noticias en español" tvg-language="es",Euronews Español | Europa
@@ -105,10 +107,10 @@ https://euronews-live-spa-es.fast.rakuten.tv/master.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" group-title="02 · Noticias en español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png",France 24 Español | Francia
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="NegociosTV.es" group-title="02 · Noticias en español" tvg-language="es",Negocios TV | Economía
+#EXTINF:-1 tvg-id="Negocios.TV" group-title="02 · Noticias en español" tvg-language="es",Negocios TV | Economía
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-id="24h.es" group-title="02 · Noticias en español" tvg-language="es",RTVE 24 Horas | España
+#EXTINF:-1 tvg-id="24Horas.TV" group-title="02 · Noticias en español" tvg-language="es",RTVE 24 Horas | España
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="T13.cl" group-title="02 · Noticias en español" tvg-language="es",T13 en vivo | Chile
@@ -333,7 +335,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 #EXTINF:-1 group-title="06 · Deportes" tvg-language="en",EDGESport | Deportes de acción
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Esport3.es" group-title="06 · Deportes" tvg-language="ca",Esport3 | Catalunya
+#EXTINF:-1 tvg-id="E3.TV" group-title="06 · Deportes" tvg-language="ca",Esport3 | Catalunya
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 
 #EXTINF:-1 group-title="06 · Deportes" tvg-language="en",FIFA+ Women | Fútbol femenino
@@ -378,7 +380,7 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="06 · Deportes" tvg-language="en",Stadium | Deportes (EN)
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
 
-#EXTINF:-1 tvg-id="tdp.es" group-title="06 · Deportes" tvg-language="es",Teledeporte | RTVE
+#EXTINF:-1 tvg-id="TDP.TV" group-title="06 · Deportes" tvg-language="es",Teledeporte | RTVE
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 #EXTINF:-1 group-title="06 · Deportes" tvg-language="en",Trace Sport Stars | Deportistas
@@ -393,61 +395,61 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",3Cat Joc de Cartes | Gastronomía
 https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
 
-#EXTINF:-1 tvg-id="AragonTV.es" group-title="07 · España y Cataluña" tvg-language="es",Aragón TV | Aragón
+#EXTINF:-1 tvg-id="AragonTV.TV" group-title="07 · España y Cataluña" tvg-language="es",Aragón TV | Aragón
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",Bon Dia TV | Catalunya
+#EXTINF:-1 tvg-id="BonDiaTV_CAT.TV" group-title="07 · España y Cataluña" tvg-language="ca",Bon Dia TV | Catalunya
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",Canal Extremadura
+#EXTINF:-1 tvg-id="Extremadura.TV" group-title="07 · España y Cataluña" tvg-language="es",Canal Extremadura
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",Canal Sur | Andalucía
+#EXTINF:-1 tvg-id="CanalSurA.TV" group-title="07 · España y Cataluña" tvg-language="es",Canal Sur | Andalucía
 https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="eu",ETB1 | País Vasco
+#EXTINF:-1 tvg-id="ETB1.TV" group-title="07 · España y Cataluña" tvg-language="eu",ETB1 | País Vasco
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",ETB2 | País Vasco
+#EXTINF:-1 tvg-id="ETB2.TV" group-title="07 · España y Cataluña" tvg-language="es",ETB2 | País Vasco
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",La 1 Catalunya | RTVE
+#EXTINF:-1 tvg-id="La1_CAT.TV" group-title="07 · España y Cataluña" tvg-language="ca",La 1 Catalunya | RTVE
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La1.es" group-title="07 · España y Cataluña" tvg-language="es",La 1 | RTVE
+#EXTINF:-1 tvg-id="La1.TV" group-title="07 · España y Cataluña" tvg-language="es",La 1 | RTVE
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",La 2 Catalunya | RTVE
+#EXTINF:-1 tvg-id="La2_CAT.TV" group-title="07 · España y Cataluña" tvg-language="ca",La 2 Catalunya | RTVE
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",La 7 | Región de Murcia
+#EXTINF:-1 tvg-id="7RM.TV" group-title="07 · España y Cataluña" tvg-language="es",La 7 | Región de Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",La 8 Mediterráneo | Valencia
+#EXTINF:-1 tvg-id="8M.TV" group-title="07 · España y Cataluña" tvg-language="es",La 8 Mediterráneo | Valencia
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",La Otra | Madrid
+#EXTINF:-1 tvg-id="LaOtra.TV" group-title="07 · España y Cataluña" tvg-language="es",La Otra | Madrid
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="es",RNE para todos | Vídeo
+#EXTINF:-1 tvg-id="RNE.TV" group-title="07 · España y Cataluña" tvg-language="es",RNE para todos | Vídeo
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 
-#EXTINF:-1 tvg-id="Telemadrid.es" group-title="07 · España y Cataluña" tvg-language="es",Telemadrid | Madrid
+#EXTINF:-1 tvg-id="Telemadrid.TV" group-title="07 · España y Cataluña" tvg-language="es",Telemadrid | Madrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-id="TVCanaria.es" group-title="07 · España y Cataluña" tvg-language="es",Televisión Canaria
+#EXTINF:-1 tvg-id="Canarias.TV" group-title="07 · España y Cataluña" tvg-language="es",Televisión Canaria
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV3.es" group-title="07 · España y Cataluña" tvg-language="ca",TV3 | Catalunya
+#EXTINF:-1 tvg-id="TV3.TV" group-title="07 · España y Cataluña" tvg-language="ca",TV3 | Catalunya
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",TV3CAT | Internacional
+#EXTINF:-1 tvg-id="TVC.TV" group-title="07 · España y Cataluña" tvg-language="ca",TV3CAT | Internacional
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" group-title="07 · España y Cataluña" tvg-language="es",TVE Internacional | Europa
+#EXTINF:-1 tvg-id="TVE_INTER.TV" group-title="07 · España y Cataluña" tvg-language="es",TVE Internacional | Europa
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 
-#EXTINF:-1 group-title="07 · España y Cataluña" tvg-language="ca",À Punt | Comunidad Valenciana
+#EXTINF:-1 tvg-id="APUNT.TV" group-title="07 · España y Cataluña" tvg-language="ca",À Punt | Comunidad Valenciana
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl" group-title="08 · Chile" tvg-language="es",Canal 13 | Chile
@@ -486,7 +488,7 @@ https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13Kids.cl" group-title="09 · Infantil y familiar" tvg-language="es",13 Kids | Chile
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="ClanTVE.es" group-title="09 · Infantil y familiar" tvg-language="es",Clan | RTVE
+#EXTINF:-1 tvg-id="Clan.TV" group-title="09 · Infantil y familiar" tvg-language="es",Clan | RTVE
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 
 #EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",duckTV | Bebés (IT)
@@ -507,7 +509,7 @@ https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",SuperToons TV | Animación (IT)
 https://kedoo-supertoonstv-4-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SX3.es" group-title="09 · Infantil y familiar" tvg-language="ca",SX3 | Catalunya
+#EXTINF:-1 tvg-id="SX3.TV" group-title="09 · Infantil y familiar" tvg-language="ca",SX3 | Catalunya
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
 #EXTINF:-1 group-title="09 · Infantil y familiar" tvg-language="it",Teletubbies | Infantil (IT)
